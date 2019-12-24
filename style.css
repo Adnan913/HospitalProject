@@ -1,0 +1,13 @@
+.navbar{
+	background: #4ccf96;
+	border-radius:none;
+	border:none;
+	color: white;
+	position: fixed;
+	width: 100%;
+}
+.navbar-collapse .navbar-nav .nav-link{
+	color: white;
+	margin-left: 100px;
+}
+      
